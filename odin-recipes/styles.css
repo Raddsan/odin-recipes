@@ -1,0 +1,27 @@
+/*styles.css*/
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: lightskyblue;
+}
+
+ul {
+    font-size: 20px;
+    text-align: left;
+    list-style-position: inside;
+    margin-left: 900px;
+}
+
+.All.text {
+color:darkgreen
+
+}
+
+.Only.dots {
+color:darkgreen
+}
+
+img {
+    padding: 40px;
+}
