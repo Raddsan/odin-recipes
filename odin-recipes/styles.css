@@ -3,7 +3,8 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    background-color: lightskyblue;
+    background-color: #b2d1d1;
+    color:#4c9393;
 }
 
 ul {
@@ -11,17 +12,13 @@ ul {
     text-align: left;
     list-style-position: inside;
     margin-left: 900px;
-}
-
-.All.text {
-color:darkgreen
-
-}
-
-.Only.dots {
-color:darkgreen
+    color:#005b5b;
 }
 
 img {
     padding: 40px;
+}
+
+a {
+    color:#4c9393
 }
